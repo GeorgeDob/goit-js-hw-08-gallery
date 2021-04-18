@@ -105,7 +105,7 @@ const slideModalImage = {
 
         const { src, alt } = this.getImageData(this.currentImgIndex);
 
-        setmodalImg(src, alt);
+        setModalImg(src, alt);
     },
 
     nextSlide() {
